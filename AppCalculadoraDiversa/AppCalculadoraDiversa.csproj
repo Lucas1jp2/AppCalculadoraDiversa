@@ -58,6 +58,12 @@
     <Compile Include="Formularios\FormSoma.Designer.cs">
       <DependentUpon>FormSoma.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FormTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormTest.Designer.cs">
+      <DependentUpon>FormTest.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
